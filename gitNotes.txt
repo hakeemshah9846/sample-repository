@@ -1,0 +1,6 @@
+https://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@github.com/hakeemshah9846/sample-repository.git
+
+New Repository
+git init
+git remote add origin https://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@github.com/hakeemshah9846/sample-repository.git
+git branch -m main
